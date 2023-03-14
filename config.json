@@ -1,0 +1,20 @@
+{
+    "bot_token": "BOT TOKEN",
+    "bot_status": "",
+    "capmonster_key": "CAPMONSTER KEY",
+    "proxyless": true,
+    "change_server_nick": true,
+    "server_nick": "",
+    "guildID": 0,
+    "ownerID": [],
+    "adminID": [],
+    "cashapp": "Your cashapp",
+    "paypalme": "Your PayPal",
+    "btc": "Your btc addy",
+    "ltc": "Your ltc addy",
+    "vouchid": "<# after # paste your vouch channel id>", 
+    "order_log_webhook": "PUT YOUR WEBHOOK",
+    "boost_log_webhook": "PUT YOUR WEBHOOK",
+    "boost_failed_log_webhook": "PUT YOUR WEBHOOK"
+
+}
