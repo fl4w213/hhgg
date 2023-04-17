@@ -1,9 +1,6 @@
 colorama
 httpx
 requests
-discord
-discord.py
-pycord
 py-cord
 tls_client
 discord_webhook
